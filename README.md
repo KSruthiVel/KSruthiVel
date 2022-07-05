@@ -2,6 +2,7 @@
 <h3 align="center">A frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksruthivel&label=Profile%20views&color=0e75b6&style=flat" alt="ksruthivel" /> </p>
+- 🎓 I'm currently a senior undergrad majoring in Computer Science
 
 - 🔭 I’m currently working on [Expense Tracker](https://github.com/KSruthiVel/Expense-Tracker)
 
