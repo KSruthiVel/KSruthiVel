@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👯 I’m looking to collaborate on [Event Management Application](https://github.com/KSruthiVel/Event-Management-Application)
-
 - 📝 I regularly write articles on [https://medium.com/@ksvelaga](https://medium.com/@ksvelaga)
 
 - 📫 How to reach me **ksvelaga@gmail.com**
