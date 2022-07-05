@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krishna sruthi velaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna sruthi velaga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ksruthivel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ksruthivel/" height="30" width="40" /></a>
 <a href="https://medium.com/@ksvelaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ksvelaga" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ksruthi_vel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ksruthi_vel" height="30" width="40" /></a>
 </p>
