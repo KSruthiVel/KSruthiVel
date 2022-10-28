@@ -2,10 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksruthivel&label=Profile%20views&color=0e75b6&style=flat" alt="ksruthivel" /> </p>
 
-- 🌱 I’m currently learning **Node JS**
-
-- 📝 I regularly write articles on [https://medium.com/@ksvelaga](https://medium.com/@ksvelaga)
-
 - 📫 How to reach me **ksvelaga@gmail.com**
 
 ### Blogs posts
